@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+random_forest,0.95,0.72,0.68,0.70,0.88
+xgboost,0.96,0.75,0.70,0.72,0.90
+chosen_model,random_forest,0.95,0.72,0.68,0.70,0.88
