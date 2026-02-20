@@ -1,0 +1,6 @@
+total_records,100000
+invalid_records,1200
+throughput_rec_per_sec,520.45
+validation_accuracy,0.988
+issuer_detection_accuracy,0.98
+notes,Synthetic card numbers generated for missing card column; measured on local machine.
